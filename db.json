@@ -18,6 +18,11 @@
             "id": 4,
             "titulo": "Dart, o Caçador de Andróides",
             "banner": "./components/Card/banner.jpg"
+        },
+        {
+            "id": 5,
+            "titulo": "Macaco e macacos",
+            "banner": "./components/Card/banner.jpg"
         }
     ]
 }
